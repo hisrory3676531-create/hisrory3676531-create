@@ -18,9 +18,9 @@ I do manual testing of games and web applications. I love finding complex bugs a
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Sheets" />
 </p>
 📂 My best works:
-#### 🎮 [QA Portfolio (My Pet Project)](https://github.com/hisrory3676531-create/qa-portfolio)
+🎮 [QA Portfolio (My Pet Project)](https://github.com/hisrory3676531-create/qa-portfolio)
 Here are all the artifacts from testing my game:
-* 📘 **Test Plan** and Strategy
-* ✅ **Checklists** (Game Mechanics)
-* 🐞 **Bug Reports** (Jira)
-* 🛠 **SQL Queries** (Databases)
+* 📘 Test Plan and Strategy
+* ✅ Checklists (Game Mechanics)
+* 🐞 Bug Reports (Jira)
+* 🛠 SQL Queries (Databases)

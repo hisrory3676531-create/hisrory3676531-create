@@ -9,7 +9,7 @@ I do manual testing of games and web applications. I love finding complex bugs a
 
 API Automation (Restful-Booker)
 
-Full-cycle testing (CRUD) for a hotel booking system.
+Full-cycle testing (CRUD) for a hotel booking system. https://restful-booker.herokuapp.com/apidoc/index.html
 The collection contains queries covering the entire API documentation.
 
 [Open collection in Postman (Web Link)](https://www.postman.com/hisrory3676531-create-7206976/qa-portfolio/collection/51962366-e59e4d14-b26c-40bd-b473-c75f63e542ea/?action=share&creator=51962366)

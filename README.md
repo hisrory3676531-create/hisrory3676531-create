@@ -2,10 +2,23 @@ Hello! I am a QA Engineer (Tester) 👋
 
 I do manual testing of games and web applications. I love finding complex bugs and making products better.
 
-- 🔭 I'm currently working on my project: **Multiplayer RPG game**
-- 🌱 I am actively studying: **SQL, API Testing, Traffic Sniffing**
+- 🔭 I'm currently working on my project: Multiplayer RPG game
+- 🌱 I am actively studying: SQL, API Testing, Traffic Sniffing
 
 ---
+
+API Automation (Restful-Booker)
+
+Full-cycle testing (CRUD) for a hotel booking system.
+The collection contains queries covering the entire API documentation.
+
+[Open collection in Postman (Web Link)](https://www.postman.com/hisrory3676531-create-7206976/qa-portfolio/collection/51962366-e59e4d14-b26c-40bd-b473-c75f63e542ea/?action=share&creator=51962366)
+<br>(The link leads to my Public Workspace. You can run queries directly in the browser or import them)
+
+What's inside:
+ ✅ Auth: Obtain an admin token.
+ ✅ Booking: Create, read, update, and delete reservations.
+ ✅ Ping: Check API availability.
 
 **💻 IDE & Development:**
 <p align="left">
